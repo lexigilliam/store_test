@@ -1,1 +1,1 @@
-BLACKLIST = {2,3} #user ids denied access
+BLACKLIST = set()
